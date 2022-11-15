@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ducpham170803
+- 👋 Hi, I’m @ducpham170803. My full name is Hong Duc Pham. I am from Danang, Vietnam.
 - 👀 I’m interested in Maths and coding
 - 🌱 I’m currently studying Data Science major at University of San Francisco
 - 📫 How to reach me: 
